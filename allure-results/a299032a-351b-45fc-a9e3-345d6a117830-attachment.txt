@@ -1,0 +1,3 @@
+Setting up Data base connection
+Add something to the DB 1
+Clean DB

@@ -1,0 +1,3 @@
+Add something to the DB 2
+Clean DB
+Close DB connection

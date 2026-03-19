@@ -1,0 +1,4 @@
+Before each action
+Running test 2
+After each action
+After all action
